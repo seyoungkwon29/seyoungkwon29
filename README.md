@@ -4,12 +4,17 @@
 [![Email](https://img.shields.io/badge/seyoungkwon29@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:seyoungkwon29@gmail.com)
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=Blog)](https://velog.io/@seyoungkwon29/posts)
 
-<div> 🔎 GitHub Stats 🔎</div>
+---
+### Trouble Shooting
+1. [동시성 제어](https://velog.io/@seyoungkwon29/posts)
 
-![seyoungkwon29's GitHub stats](https://github-readme-stats.vercel.app/api?username=seyoungkwon29&show_icons=true&theme=merko)  
-
+---
+### GitHub Stats & Most Used Languages
+![seyoungkwon29's GitHub stats](https://github-readme-stats.vercel.app/api?username=seyoungkwon29&show_icons=true&theme=merko) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seyoungkwon29&layout=compact&theme=merko)
 
+---
+### Backjoon Stats
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hwi1386)](https://solved.ac/hwi1386)
 
 
