@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+![seyoungkwon29's GitHub stats](https://github-readme-stats.vercel.app/api?username=seyoungkwon29&show_icons=true&theme=merko)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seyoungkwon29&layout=compact&theme=merko)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hwi1386)](https://solved.ac/hwi1386)
+
+[![Velog Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("[https://cocoon1787.tistory.com/](https://velog.io/@seyoungkwon29/posts))
+
 <!--
 **seyoungkwon29/seyoungkwon29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
