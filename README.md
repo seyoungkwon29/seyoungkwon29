@@ -6,7 +6,7 @@
 ---
 ### Trouble Shooting
 1. [비관적 락을 활용한 동시성 문제 해결](https://velog.io/@seyoungkwon29/%ED%8A%B8%EB%9F%AC%EB%B8%94-%EC%8A%88%ED%8C%85-%EB%B9%84%EA%B4%80%EC%A0%81-%EB%9D%BD%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%8F%99%EC%8B%9C%EC%84%B1-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0)
-
+2. [N + 1 문제 : Fetch Join을 통한 성능 최적화](https://velog.io/@seyoungkwon29/%ED%8A%B8%EB%9F%AC%EB%B8%94-%EC%8A%88%ED%8C%85-N-1-%EB%AC%B8%EC%A0%9C-Fetch-Join%EC%9D%84-%ED%86%B5%ED%95%9C-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94)
 ---
 ### GitHub Stats & Most Used Languages
 ![seyoungkwon29's GitHub stats](https://github-readme-stats.vercel.app/api?username=seyoungkwon29&show_icons=true&theme=merko) 
